@@ -23,11 +23,6 @@ JavaScript (ES6+)
 
 HTML5 & CSS3
 
-Imgflip API![localhost_5173_(Nest Hub Max)](https://github.com/user-attachments/assets/db635df9-2e3d-4539-b7a4-84e8903be5e4)
-![localhost_5173_(Nest Hub Max) (1)](https://github.com/user-attachments/assets/0576f279-9eb3-4113-998e-cc51f169ef2d)
-![localhost_5173_(Nest Hub Max) (2)](https://github.com/user-attachments/assets/49dc840b-ad4c-44ec-b02d-82c1b6cecf11)
-
-
 <h1>📦 How It Works</h1>
 On load, the app fetches a list of meme templates via a GET request to https://api.imgflip.com/get_memes.
 
@@ -36,3 +31,9 @@ A random meme template is selected when the user clicks the "Get a new meme imag
 Users can enter custom top and bottom captions via input fields.
 
 The meme is displayed dynamically with the overlayed text.
+
+Imgflip API![localhost_5173_(Nest Hub Max)](https://github.com/user-attachments/assets/db635df9-2e3d-4539-b7a4-84e8903be5e4)
+![localhost_5173_(Nest Hub Max) (1)](https://github.com/user-attachments/assets/0576f279-9eb3-4113-998e-cc51f169ef2d)
+![localhost_5173_(Nest Hub Max) (2)](https://github.com/user-attachments/assets/49dc840b-ad4c-44ec-b02d-82c1b6cecf11)
+
+
